@@ -1,8 +1,6 @@
-# React + Vite
+A simple React application that displays a collection of inspirational morning quotes. Users can navigate through the quotes using "Next" button.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Features
+.Quote Display: Shows a quote and its author.
+.Navigation: Allows users to navigate through the quotes with "Next" button.
+.Circular Navigation: When the end of the quotes list is reached, the app loops back to the beginning.
